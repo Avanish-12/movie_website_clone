@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie_website_clone/static/css/main.6df06646.css",
+    "main.js": "/movie_website_clone/static/js/main.8f82efcb.js",
+    "index.html": "/movie_website_clone/index.html",
+    "main.6df06646.css.map": "/movie_website_clone/static/css/main.6df06646.css.map",
+    "main.8f82efcb.js.map": "/movie_website_clone/static/js/main.8f82efcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df06646.css",
+    "static/js/main.8f82efcb.js"
+  ]
+}
